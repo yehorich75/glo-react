@@ -7,7 +7,7 @@ export default class Post extends Component {
 
                 <img src={this.props.src} alt={this.props.alt}></img>
                 <div className="post__name">Some account</div>
-                
+                <div className="post__descr">odjflkwdjf wdijfoiwdjf wdji jwoidufow jiwjdfijwd ijowidj</div>
             </div>
         )
     }
